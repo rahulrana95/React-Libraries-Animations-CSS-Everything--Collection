@@ -5,3 +5,5 @@ Mail me if you have any query at 3rahul4@gmail.com.
 # Animation Libraries
 1. http://react-animations.herokuapp.com/
 2. https://www.npmjs.com/package/velocity-react
+3. https://github.com/brillout/awesome-react-components
+
